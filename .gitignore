@@ -1,0 +1,4 @@
+sql/mutual_funds.db
+__pycache__/
+data/raw/
+data/processed/ 
