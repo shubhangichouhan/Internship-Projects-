@@ -28,7 +28,7 @@ This project provides an in-depth analysis of the Indian Mutual Fund industry, f
 9. AUM Milestone: Industry crossed the 81 Lakh Crore mark.
 10. Growth Potential: Low AUM-to-GDP ratio suggests long-term growth opportunities.
 
-## Project Structure
+         ## Project Structure
 ```text
 ├── data/
 │   ├── raw/            
@@ -37,5 +37,6 @@ This project provides an in-depth analysis of the Indian Mutual Fund industry, f
 ├── sql/                
 ├── dashboard/          
 ├── reports/            
+├── Scripts/            
 ├── .gitignore          
-└── README.md           
+└── README.md
